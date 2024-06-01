@@ -12,3 +12,4 @@ C:\Users\ticob\OneDrive\cs\numbers\obj\Debug\net8.0\refint\numbers.dll
 C:\Users\ticob\OneDrive\cs\numbers\obj\Debug\net8.0\numbers.pdb
 C:\Users\ticob\OneDrive\cs\numbers\obj\Debug\net8.0\numbers.genruntimeconfig.cache
 C:\Users\ticob\OneDrive\cs\numbers\obj\Debug\net8.0\ref\numbers.dll
+C:\Users\ticob\OneDrive\cs\numbers\obj\Debug\net8.0\numbers.sourcelink.json
