@@ -1,0 +1,14 @@
+C:\Users\ticob\OneDrive\cs\numbers\bin\Debug\net8.0\numbers.exe
+C:\Users\ticob\OneDrive\cs\numbers\bin\Debug\net8.0\numbers.deps.json
+C:\Users\ticob\OneDrive\cs\numbers\bin\Debug\net8.0\numbers.runtimeconfig.json
+C:\Users\ticob\OneDrive\cs\numbers\bin\Debug\net8.0\numbers.dll
+C:\Users\ticob\OneDrive\cs\numbers\bin\Debug\net8.0\numbers.pdb
+C:\Users\ticob\OneDrive\cs\numbers\obj\Debug\net8.0\numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ticob\OneDrive\cs\numbers\obj\Debug\net8.0\numbers.AssemblyInfoInputs.cache
+C:\Users\ticob\OneDrive\cs\numbers\obj\Debug\net8.0\numbers.AssemblyInfo.cs
+C:\Users\ticob\OneDrive\cs\numbers\obj\Debug\net8.0\numbers.csproj.CoreCompileInputs.cache
+C:\Users\ticob\OneDrive\cs\numbers\obj\Debug\net8.0\numbers.dll
+C:\Users\ticob\OneDrive\cs\numbers\obj\Debug\net8.0\refint\numbers.dll
+C:\Users\ticob\OneDrive\cs\numbers\obj\Debug\net8.0\numbers.pdb
+C:\Users\ticob\OneDrive\cs\numbers\obj\Debug\net8.0\numbers.genruntimeconfig.cache
+C:\Users\ticob\OneDrive\cs\numbers\obj\Debug\net8.0\ref\numbers.dll
